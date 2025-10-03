@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Nyanyaon
 
-<!--
-**nyanyaon/nyanyaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Software Engineer | GIS Specialist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm a passionate Software Engineer specializing in **Geographic Information Systems (GIS)**, with a love for building spatial and mapping solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Technologies
+- **TypeScript** | **C++** | **Rust**
+- Advanced mapping & spatial analysis
+- Open-source enthusiast
+
+### 🎨 Favorite Project
+**MapLibre Style Creative**  
+Expressing creativity through open-source mapping.  
+*Bringing maps to life with style and innovation.*
+
+---
+
+### 🚀 What I Do
+- Design & develop mapping applications and libraries
+- Contribute to open-source GIS projects
+- Explore new paradigms in spatial data visualization
+
+### 📫 Connect with Me
+Feel free to reach out for collaboration, questions, or creative mapping ideas!
+
+---
+
+> *“Maps are the language of spatial stories. Let’s build something amazing together!”*
